@@ -1,16 +1,13 @@
-### Hi there 👋
+### ![Привет](%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D0%9A%D0%BE%D1%82.jpg)
 
-<!--
-**Nika62/Nika62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p aling="center">Привет, меня зовут Вероника. Сейчас я нахожусь в поиске работы.  Я начинающий java-разработчик, но хочу развиваться, осваивать новые инструменты, повышать скил.</p>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" white=10%/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" white=10% />
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" white=10%/> <i class="devicon-adonisjs-original цветной"></i> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
+          
+          
+</div>
