@@ -16,3 +16,5 @@
 <li>Miro</li>
 </ul>
 </div>
+<h4>Связаться со мной можно по:</h4>
+  <p align="left">+7 (951) 103-84-69 telegram Nika_Konenkova</p>
